@@ -20,3 +20,10 @@ StarlingX3 Images
         "quay.io/airshipit/armada:8a1638098f88d92bf799ef4934abe569789b885e-ubuntu_bionic"
     ]
 ```
+
+```shell
+  "platform": [
+    docker.io/starlingx/ceph-config-helper:v1.15.0
+    quay.io/kubernetes_incubator/node-feature-discovery:v0.3.0
+    quay.io/external_storage/rbd-provisioner:v2.1.1-k8s1.11
+  ]
