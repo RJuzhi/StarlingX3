@@ -23,7 +23,7 @@ StarlingX3 Images
 
 ```shell
   "platform": [
-    docker.io/starlingx/ceph-config-helper:v1.15.0
-    quay.io/kubernetes_incubator/node-feature-discovery:v0.3.0
-    quay.io/external_storage/rbd-provisioner:v2.1.1-k8s1.11
+        docker.io/starlingx/ceph-config-helper:v1.15.0
+        quay.io/kubernetes_incubator/node-feature-discovery:v0.3.0
+        quay.io/external_storage/rbd-provisioner:v2.1.1-k8s1.11
   ]
