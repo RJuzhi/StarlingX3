@@ -119,3 +119,10 @@ StarlingX3 Images
         docker.io/rabbitmq:3.7.13-management
     ]
 ```
+
+
+```shell
+  "questions": [
+        docker.io/openstackhelm/placement:ocata-ubuntu_xenial not found
+  ]
+````
